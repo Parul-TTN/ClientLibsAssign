@@ -1,0 +1,4 @@
+Ques-2)-There will be 2 calls.One for dependencies and one for base.
+
+
+Ques-3)-There will be single network call for clientlib1. And to make the observations i have made call on clientlib2.
